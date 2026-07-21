@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0074_000-X.yaml, hash: 'sha256:384cf1f7f3697850550502ccdf5cfafd2c5cae9afcb48035bc1d47ffd4578ba5'}
+  - {seq: 0, filename: KR6d0074_000-X.yaml, hash: 'sha256:457b45bb2705c938c2458b9502407d802182eedeac3c7de471371afdc24d73a8'}
   - {seq: 1, filename: KR6d0074_001-X.yaml, hash: 'sha256:e9aa8965e5df89b8cb86508bb65cc92c592e88eac8e1a1d0c568757a336dfd12'}
   - {seq: 2, filename: KR6d0074_002-X.yaml, hash: 'sha256:960ff13ea81171359e9ca564d393e8b3c8c691d9a8cd215c8c6edfeb82b31062'}
   - {seq: 3, filename: KR6d0074_003-X.yaml, hash: 'sha256:cdd7f949fe7a149928f03db28cae3405b5916583384c0f750c112cb1d8ca3466'}
@@ -28,7 +28,7 @@ assets:
   - {seq: 6, filename: KR6d0074_006-X.yaml, hash: 'sha256:6a9f1cb0755606be794930f9b11daf8266f2b0e673b40ef166c77513f76c04e4'}
   - {seq: 7, filename: KR6d0074_007-X.yaml, hash: 'sha256:04b119401a8521766c3bed50cd1d692caa49986d57369cc6370d91d15a36d5af'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0074_000-X.markers.yaml, hash: 'sha256:4e0b23db35756d1d9febed44f9daea0bc055f6f87a55a8270837db78049057bc'}
+  - {seq: 0, role: markers, filename: assets/KR6d0074_000-X.markers.yaml, hash: 'sha256:adbad0543df86710c1b04add3c54a33a90808d533cab559baac486a767aa282a'}
   - {seq: 1, role: markers, filename: assets/KR6d0074_001-X.markers.yaml, hash: 'sha256:0a3713b0a97c4b7cdc166c79ace47eb0726f9de3d8a45a24434aeece5ad427b2'}
   - {seq: 2, role: markers, filename: assets/KR6d0074_002-X.markers.yaml, hash: 'sha256:acb831fcf83497512a81baf2c8a527a10b3428997f27ea0bb68bdfe9dd5f211d'}
   - {seq: 3, role: markers, filename: assets/KR6d0074_003-X.markers.yaml, hash: 'sha256:bfe21a229ea45f1581c3fc381e6859206a894cda992402e5defd2fd6b60f5b73'}
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0074_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 608-A 妙法蓮華經知音序
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0074_X_000-mulu-2
     span:
-    - front
+    - body
     - 1609
     - 1609
   label: No. 608-B 妙法蓮華經弘傳序知音
@@ -61,7 +61,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0074_X_000-mulu-3
     span:
-    - front
+    - body
     - 1639
     - 1639
   label: 經題
@@ -71,7 +71,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0074_X_000-mulu-4
     span:
-    - front
+    - body
     - 5063
     - 5063
   label: 弘傳序
@@ -427,4 +427,4 @@ table_of_contents:
   label: 普賢菩薩勸發品第二十八
   type: mulu
   level: 1
-hash: sha256:d4cf0b03a3ca7708c90f9a58e121b1802a448760b9ae86d46cc12e7a50064c5b
+hash: sha256:442be9de23d264eefed4ba7ad336cc57ade1cea47e860f3240e138b6e9aac889
